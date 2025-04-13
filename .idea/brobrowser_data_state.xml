@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BroBrowser">
+    <option name="lastTitle" value="localhost" />
+    <option name="urlMap">
+      <map>
+        <entry key="Google" value="https://github.com/HuXn-WebDev/THE-BIGGEST-REACT-COURSE-ON-THE-INTERNET/blob/main/10.%20Zustand%20With%2010%20Projects/2.%20Projects/10.%20Watch%20Store/components/Sidebar.tsx" />
+        <entry key="Youtube" value="https://m.youtube.com/" />
+        <entry key="localhost" value="http://localhost:5173/" />
+        <entry key="none" value="http://blank/" />
+      </map>
+    </option>
+  </component>
+</project>
