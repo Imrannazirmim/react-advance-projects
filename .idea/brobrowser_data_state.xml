@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BroBrowser">
-    <option name="lastTitle" value="Google" />
+    <option name="lastTitle" value="localhost" />
     <option name="urlMap">
       <map>
-        <entry key="Google" value="https://github.com/HuXn-WebDev/THE-BIGGEST-REACT-COURSE-ON-THE-INTERNET/blob/main/11.%20Redux%20Toolkit/2.%20RTK%20Query/src/app/service/dummyData.js" />
+        <entry key="Google" value="https://github.com/HuXn-WebDev/THE-BIGGEST-REACT-COURSE-ON-THE-INTERNET/blob/main/11.%20Redux%20Toolkit/2.%20RTK%20Query/src/app/store.js" />
         <entry key="Youtube" value="https://m.youtube.com/" />
         <entry key="localhost" value="http://localhost:5173/" />
         <entry key="none" value="http://blank/" />
