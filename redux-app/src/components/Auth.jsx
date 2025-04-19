@@ -1,5 +1,6 @@
 import { useDispatch } from "react-redux";
 import { authActions } from "../store/auth";
+import React from "react";
 
 const Auth = () => {
   const dispatch = useDispatch();
@@ -8,8 +9,6 @@ const Auth = () => {
     event.preventDefault();
     dispatch(authActions.login())
   }
-
-
 
   return (
     <form onSubmit={handleLogin} className="w-[25rem] mx-auto p-4 m-2 rounded shadow flex flex-col items-center gap-2">
